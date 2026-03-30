@@ -1,0 +1,5 @@
+torch
+sentencepiece
+beautifulsoup4
+requests
+chardet
